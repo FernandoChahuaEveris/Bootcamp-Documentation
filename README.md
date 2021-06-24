@@ -7,3 +7,5 @@ https://github.com/FernandoChahuaEveris/Everis-Bootcamp-ProductService
 https://github.com/diazflo/Everis-Bootcamp-AccountService
 ## Credit
 https://github.com/FernandoChahuaEveris/Everis-Bootcamp-CreditLoanService
+## Eureka Server
+https://github.com/diazflo/EurekaServer
